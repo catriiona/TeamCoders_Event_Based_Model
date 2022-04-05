@@ -28,4 +28,4 @@ If you are interested in attending this course or going through its content, the
 Each part has its own folder, where you will find both the training content and blank notebooks for your team to fill in. Your team will forth this repository and start to fill in the notebooks.
 
 ## Further Reading
-In addition tothe above repositories, to find out more abotu disease progression modelling, please view the [DPM website](https://disease-progression-modelling.github.io/pages/main.html) which has further turortials, examples and links. 
+In addition to the above repositories, to find out more abotu disease progression modelling, please view the [DPM website](https://disease-progression-modelling.github.io/pages/main.html) which has further turortials, examples and links. 
