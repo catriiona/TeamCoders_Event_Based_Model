@@ -14,13 +14,13 @@ project involving code and biomdeical research , bringing people from
 different background and coding skill levels to 
 work together and quickly increase their coding skill.
 
- ## Learning objectives
- By the end of the project, attendees will be able to:
- 1. Understand the importance of medical imaging 
- in extracting quantitative measures about the disease process in Alzheimer's disease and other related forms of dementia
- 2. Practice standard data cleaning and visualization techniques to interrogate and investigfate the input data before analysis.
- 3. Learn how to implement the Event Based Model with an application to reproduce findings from a seminal paper. 
- 4. Further knowledge around the model’s outputs and utilize them for predicting future outcomes
+## Learning objectives
+By the end of the project, attendees will be able to:
+1. Understand the importance of medical imaging 
+in extracting quantitative measures about the disease process in Alzheimer's disease and other related forms of dementia
+2. Practice standard data cleaning and visualization techniques to interrogate and investigfate the input data before analysis.
+3. Learn how to implement the Event Based Model with an application to reproduce findings from a seminal paper. 
+4. Further knowledge around the model’s outputs and utilize them for predicting future outcomes
  
 ## Prerequisites
  For software requirements, please see the [Requirements page](requirements.md).
@@ -35,31 +35,31 @@ work together and quickly increase their coding skill.
 * [Python for R Users](https://github.com/poldrack/PythonForRUsers) - a helpful set of notebooks explaining various concepts in Python in the context of R users.
 * Software Carpentry workshops - Introductory courses in Python are available through [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing/training/course-catalogue) and[Research Software London](https://rslondon.ac.uk/events/)
  
- ## Format
- Team Coders events are currently organised as 
- virtual, on-line events. We appreciate that 
- everyone is quite busy, and when people are not 
- on-site and able to concentrate the entire day 
- on a learning activity, then daily like, work 
- responsibilities and other distractions can take 
- over. That is why we are opting for only a 
- couple of sessions 2-3 hours long at the 
- beginning and then allowing teams to select 
- their own pace and the times most convenient for 
- them to meet and discuss the project. We think 
- that most teams should be able to finish the 
- project over 2 to 3 weeks.
+## Format
+Team Coders events are currently organised as 
+virtual, on-line events. We appreciate that 
+everyone is quite busy, and when people are not 
+on-site and able to concentrate the entire day 
+on a learning activity, then daily like, work 
+responsibilities and other distractions can take 
+over. That is why we are opting for only a 
+couple of sessions 2-3 hours long at the 
+beginning and then allowing teams to select 
+their own pace and the times most convenient for 
+them to meet and discuss the project. We think 
+that most teams should be able to finish the 
+project over 2 to 3 weeks.
 
- ### Day 1 (Apporximately 3 hours)
- The first day will involve an informal warm-up 
- session, so taht the participants and 
- facilitators can get to know each other a bit 
- better, which will make interactions within the 
- team and with the facilitators easier. Then there will be introductory lectures (3 hours) that will provide the background and concepts
- that will be explored as part of this project:
- * Imaging biomarkers in Alzheimer's disease
- * Working with medical image data
- * An overview of the Event Based Model
+### Day 1 (Apporximately 3 hours)
+The first day will involve an informal warm-up 
+session, so taht the participants and 
+facilitators can get to know each other a bit 
+better, which will make interactions within the 
+team and with the facilitators easier. Then there will be introductory lectures (3 hours) that will provide the background and concepts
+that will be explored as part of this project:
+* Imaging biomarkers in Alzheimer's disease
+* Working with medical image data
+* An overview of the Event Based Model
 
 ## Day 2 (Aproximately 2 hours)
 The next day will be a more interactive, hands-on 
