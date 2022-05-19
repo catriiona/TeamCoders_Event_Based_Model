@@ -15,11 +15,4 @@ been completed:
 * Ensure that [git is installed](https://github.com/git-guides/install-git) locally on the machine you are planning to use.
 * Consider installing [GitHub Desktop](https://desktop.github.com/), a simple graphical interface for working with projects in git. If you don't have git installed already, GitHub Desktop should do that step for you.
 * Ensure you have access to ADNI data. If you do not already have access to the ADNI data set, please visit their [Accessing data](http://adni.loni.usc.edu/data-samples/access-data/) section to find out how to obtain access.
-
-You are welcome to do the following steps before the event or during it. This is to setup the development environment that you will be working in:
-* Make sure that a recent version of Python (either using [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) is installed.
-* Create a conda environment called TeamCoders, which we will be using to keep this work separate from your regular work.
-* Within this conda environment, ensure that it is setup with 
-  * Python version 3.6 or higher
-  * Support for Jupyter noteboks
-  * [The KDE EBM package](https://github.com/ucl-pond/kde_ebm)
+* Make sure that a recent version of Python (either using [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) is installed. We will use this to create a working environment that will install all the required packages and ensure that this project is kept separate from your regular work.
