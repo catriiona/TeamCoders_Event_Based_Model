@@ -37,7 +37,7 @@ If you have not experience with Git, dont't worry! There will be some demonstrat
 If you have experience with R and not Python, don't worry! Here are some helpful resources that you should look at before attending:
  
 * [Python for R Users](https://github.com/poldrack/PythonForRUsers) - a helpful set of notebooks explaining various concepts in Python in the context of R users.
-* Software Carpentry workshops - Introductory courses in Python are available through [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing/training/course-catalogue) and[Research Software London](https://rslondon.ac.uk/events/)
+* Software Carpentry workshops - [Introductory courses in Python](https://swcarpentry.github.io/python-novice-gapminder/) are available through [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing/training/course-catalogue) and[Research Software London](https://rslondon.ac.uk/events/)
 
  
 ## Format
