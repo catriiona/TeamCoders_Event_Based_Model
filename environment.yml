@@ -9,6 +9,8 @@ dependencies:
   - nilearn
   - tqdm
   - jupyterlab
+  - rise
+  - jupyter_nbextensions_configurator
   - numpy=1.16.3
   - fsleyes
   - pip:
