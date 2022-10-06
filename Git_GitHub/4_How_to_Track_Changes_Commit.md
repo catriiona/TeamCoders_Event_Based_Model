@@ -11,7 +11,7 @@ nano pizza.txt
 ```
 Editor opens 
 
-![pizza.txt](nano_pizza.png)
+![pizza.txt](./fig/nano_pizza.png)
 
 Then press *control O* to save (write out) and *Enter* when asked 'Filename to Write: pizza.txt'. Finally press *control X * to exit
 
@@ -53,8 +53,8 @@ nothing added to commit but untracked files present (use "git add" to track)
 Don’t worry about all the output for now, the important bit is that the 2 files we already have are untracked in the repository (directory). We want to add the files to the list of files tracked by Git. Git does not track any files automatically and you need make a conscious decision to add a file. Let’s do what Git hints at:
 
 ```bash
-$ git add pizza.txt
-$ git status
+ $ git add pizza.txt
+ $ git status
 ```
 
 **Output**
@@ -173,7 +173,7 @@ Date:   Tue Feb 8 12:25:09 2022 +0000
 
 
 ```
-We’ll talk in more detail about the output here but for now the main point is to recognise that the commits have been created with your personal information and the message you specified.
+We’ll talk in more detail about the output here but for now the main point is to recognize that the commits have been created with your personal information and the message you specified.
 
 
 
@@ -183,7 +183,7 @@ We saw that it is a two-step process for our first commit - first, we use git ad
 
 Our changes to a file move from our editor (working directory) to the staging area and into long-term storage at the repository. All the versions of the file and their commits are stored in the repository. Therefore version control can be done in the repository and not at our editor.
 
-![staging](stage.png)
+![staging](./fig/stage.png)
 
 
 - The Working Directory (or Working Tree)
@@ -208,6 +208,7 @@ Key Points covered:
 - Files can be stored in a project’s working directory (which users see), the staging area (where the next commit is being built up) and the local repository (where commits are permanently recorded).
 - **git add** puts files in the staging area.
 - **git commit** saves the staged content as a new commit in the local repository.
+- **git log** displays history of changes and all the commits information
 Write a commit message that accurately describes your changes.
 
-![Commands_flow](Commands_flow.png)
+![Commands_flow](./fig/Commands_flow.png)

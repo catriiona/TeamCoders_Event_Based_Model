@@ -1,4 +1,4 @@
-5_Git_Commit_History
+# 5_Git_Commit_History
 # Version control and how to track commits
 
 Using **git log** we can see the commits we have created
@@ -90,27 +90,28 @@ cat pizza.txt     ## view the text
 ```
 Make the commit:
 
-``bash 
+```bash 
+
 git add pizza.txt
 git commit -m 'alter tomato sauce'
 ```
 
 **Output**
 
-``bash 
+```bash 
 [main 66053c9] alter tomato sauce
  1 file changed, 6 insertions(+), 4 deletions(-)
 ```
 
 With **git log** we see all the commits
 
-``bash 
+```bash 
 git log
 ```
 
 **Output**
 
-``bash 
+```bash 
 commit 66053c9473353ade36455bb17f6f3e3edfd2d320 (HEAD -> main)
 Author: MaryT <m.tziraki@gmail.com>
 Date:   Tue Feb 8 18:23:17 2022 +0000
@@ -127,22 +128,22 @@ commit f50fddc8b03956ce453375c1cf5d5799e5ce7a51
 Author: MaryT <m.tziraki@gmail.com>
 Date:   Tue Feb 8 12:25:09 2022 +0000
 
-    write ingredients
+    "write ingredients"
 ```
 To avoid having git log cover your entire terminal screen, you can limit the number of commits that Git lists by using -N, where N is the number of commits that you want to view. For example, if you only want information from the last commit you can use:
 
-``bash 
+```bash 
 git log -1
 ```
 
 **Output**
 
-``bash 
+```bash 
 commit 66053c9473353ade36455bb17f6f3e3edfd2d320 (HEAD -> main)
 Author: MaryT <m.tziraki@gmail.com>
 Date:   Tue Feb 8 18:23:17 2022 +0000
 
-    alter tomato sauce
+    "alter tomato sauce"
 ```
 Here it shows the last (-1 ) commit with its hash number, the author, time and the message.
 
@@ -273,7 +274,7 @@ ometimes, e.g. in the case of the text documents a line-wise diff is too coarse.
  Let’s save our changes at the repo:
 
 ```bash
- git commit -m "add sause ingredients"
+ git commit -m "add sauce ingredients"
 ```
 ```bash
 git log --oneline    
@@ -296,7 +297,7 @@ nano pizza.txt
 I have now changed what it was HEAD before. To check the changes 
 
 ```bash
- git commit -m "add sause ingredients"
+ git commit -m "add sauce ingredients"
 ```
 ```bash
 git diff HEAD pizza.txt  
@@ -366,6 +367,7 @@ If you want to see the file teh changes as well as the commit you can use **git 
 
 ```bash 
 $ git show HEAD~2 pizza.txt
+
 ```
 
 **Output**
@@ -449,7 +451,7 @@ handful of cherry tomatoes, halved
 handful of basil leaves (optional)
 ```
 
-![git checkout](git_checkout.png)
+![git checkout](./fig/git_checkout.png)
 
 
 
@@ -457,10 +459,13 @@ handful of basil leaves (optional)
 
 
 
-Key points
+## Key points
 
-- git diff displays differences between commits.It's good to check the file before staging 
+- **git diff Head~ 2** or 
+  *git diff [ID] FILENAME** displays differences between commits.
+  It's good to check the file before staging 
   At staging is git diff --stage
-  To see the differences in various versions use **git diff HEAD ~3 filename** (see 3 versions backwards. The same is with **git diff 50fddc8b03956ce453375c1cf5d5799e5ce7a51 filename**
-- git checkout 6053c9 filename.txt  recovers old versions of files.
-  Beware to use the filename
+  To see the differences in various versions use **git diff HEAD ~3 filename** (see 3 versions   
+  backwards. The same is with **git diff 50fddc8b03956ce453375c1cf5d5799e5ce7a51 filename**
+- **git checkout 6053c9 filename.txt** recovers old versions of files.
+  Beware to use the filename!!! 

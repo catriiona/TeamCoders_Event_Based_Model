@@ -203,7 +203,7 @@ In this section we present:
 - How to always check the current state of the repository with the git status command. 
 - How to correct mistakes which involved accidental multiple Git repos that confuse the Git software.
 
-Key Points 
+## Key Points 
 
 Use **git config -- global** can configure a user name, email address, editor, and other preferences once per machine.
 
