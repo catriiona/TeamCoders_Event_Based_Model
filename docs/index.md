@@ -7,7 +7,7 @@ nav_order: 1
 # Team Coders Project
  TeamCoders is a new project developed from a
 partnership between [Health and Bioscience IDEAS](https://healthbioscienceideas.github.io)
-and [UCL Clinician Coders](https://www.ucl.ac.uk/school-life-medical-sciences/about-slms/office-vice-provost-health/academic-careers-office/training-portfolios/clinician-coders#:~:text=Clinician%20Coders%20combines%20e%2Dlearning,academic%20and%20private%20sector%20partners.). 
+and [UCL Clinician Coders](https://www.ucl.ac.uk/school-life-medical-sciences/about-slms/office-vice-provost-health/academic-careers-office/training-portfolios/clinician-coders). 
 Unlike a hackathon, the goal of this event is to create an inclusive, team building 
 project involving code and biomedical research, bringing people from 
 different background and coding skill levels to 
