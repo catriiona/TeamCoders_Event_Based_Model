@@ -69,12 +69,12 @@ information provided in the demonstration notebook to solve the challenge set up
 project notebook. If needed, teams can arrange sessions with one of the facilitators, 
 where they can discuss anything that is unclear to them or if they are stuck on a particular part of the task. 
 
-#### Day 5 (Approximately 1-2 hours)
+#### Day 5 (Expected time: 1 hour (2 hours max))
 This will be an online recap session, where all teams will discuss the progress they made on the first task notebook, what they
 found easy, what they found difficult, and any additional things that they tried out.
 
 ### Week 2
-#### Day 6 (Approximately 1-2 hours)
+#### Day 6 (Expected time: 1 hour (2 hours max))
 We will go through the second _demonstration notebook_, which is all about the Event Based Model.
 
 #### Days 7-9
@@ -83,7 +83,7 @@ EBM paper](https://doi.org/10.1093/brain/awu176) by Alexandra Young and colleagu
 they will try to do additional tasks around this dataset. Again, teams are free to request sessions
 with the facilitators to help them solve the task.
 
-#### Day 10(Approximately 1-2 hours)
+#### Day 10 (Expected time: 1 hour (2 hours max))
 This will be a final recap session where each
 team will present their work, what they learned
 on the project, and how they think it will help
