@@ -11,7 +11,7 @@ sure that the _development environment_ on each
 user's machine is roughly the same. Please 
 ensure that prior to the event the following has
 been completed:
-* Ensure you have access to ADNI data. If you do not already have access to the ADNI data set, please visit their [Accessing data](http://adni.loni.usc.edu/data-samples/access-data/) section to find out how to obtain access.
+* Ensure you have access to ADNI data. If you do not already have access to the ADNI data set, please visit their [Accessing data](https://adni.loni.usc.edu/data-samples/access-data/) section to find out how to obtain access.
 * Make sure that a recent version of Python (either using [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) is installed. We will use this to create a working environment that will install all the required packages and ensure that this project is kept separate from your regular work.
 
 
