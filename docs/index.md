@@ -31,7 +31,7 @@ If you are interested in attending this course or going through its content, the
 
 If you have experience with R and not Python, don't worry! Here are some helpful resources that you should look at before attending:
 * [Python for R Users](https://github.com/poldrack/PythonForRUsers) - a helpful set of notebooks explaining various concepts in Python in the context of R users.
-* Software Carpentry workshops - [Introductory courses in Python](https://swcarpentry.github.io/python-novice-gapminder/) are available through [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing/training/course-catalogue) and[Research Software London](https://rslondon.ac.uk/events/)
+* Software Carpentry workshops - [Introductory courses in Python](https://swcarpentry.github.io/python-novice-gapminder/) are available through [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing/training/course-catalogue) and [Research Software London](https://rslondon.ac.uk/events/)
 
  
 ## Format
@@ -42,7 +42,7 @@ days, followed by a final recap session at the end of the week. The project will
 for two weeks total.
 
 ### Week 1
-#### Day 1 (Approximately 2-3 hours)
+#### Day 1 (Expected time: 2 hours (3 hours max))
 The first day will involve introductions, so that facilitators and participants can get to know each other a bit 
 better, which will make interactions within the team and with the facilitators easier. 
 Then there will be introductory lectures (3 hours) that will provide the background and concepts
@@ -50,24 +50,24 @@ that will be explored as part of this project:
 * Imaging biomarkers in Alzheimer's disease
 * An overview of the Event Based Model
 
-#### Day 2 (Approximately 2-3 hours)
+#### Day 2 (Expected time: 2 hours (3 horus max))
 The next day will be a more interactive, hands-on session. We will create the teams and then make
-sure everyone has their environments set up properly. Then we will start with a walkthrough of
-the first task, which involves data cleaning and wrangling. One facilitator will go over the basic elements of this task. 
-There is a _demonstration notebook_, where one of the facilitators will go over a practical example of how to perform these 
-tasks. There will also be a _project notebook_, 
-which will basically consist of some general
-instructions on what needs to be completed
-followed by a set of empty Python cells that
-must be completed. In some cases,  these project notebooks
+sure everyone has their environments set up properly. Then we will start with the facilitator demonstrating
+the basic elements of the first task,  which involves data cleaning and wrangling. 
+This session is based on a _demonstration notebook_, which will be provided to the teams so that they can go 
+through the individual steps themselves and what code was used for each of these steps. Once they have gone through
+this notebook, the teams will proceed to the _project notebook_. This will cover the same elements as the demonstration notebook,
+but it will only consist of some general
+instructions on what needs to be done, 
+followed by a set of empty Python cells that the teams must complete. The project notebooks
 will build upon each other, so that the output
-from the first project notebook will be used as an input for the second task.
+from the first project notebook will be used as an input for the task in Week 2. 
 
 #### Days 3-4
 Teams will work together using the information they learned from the lectures and the 
 information provided in the demonstration notebook to solve the challenge set up in the
 project notebook. If needed, teams can arrange sessions with one of the facilitators, 
-where they can discuss anything unclear or if they are stuck on a task. 
+where they can discuss anything that is unclear to them or if they are stuck on a particular part of the task. 
 
 #### Day 5 (Approximately 1-2 hours)
 This will be an online recap session, where all teams will discuss the progress they made on the first task notebook, what they
@@ -84,7 +84,7 @@ they will try to do additional tasks around this dataset. Again, teams are free 
 with the facilitators to help them solve the task.
 
 #### Day 10(Approximately 1-2 hours)
-THis will be a final virtual session where each
+This will be a final recap session where each
 team will present their work, what they learned
 on the project, and how they think it will help
 with their future research.
