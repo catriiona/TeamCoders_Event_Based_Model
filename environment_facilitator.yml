@@ -1,0 +1,19 @@
+name: teamcoder_ebm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7 
+  - pip
+  - xlrd
+  - pandas
+  - nibabel
+  - nilearn
+  - tqdm
+  - jupyterlab
+  - rise
+  - numpy=1.16.3
+  - pip:
+    - antspyx
+    - niwidgets
+    - git+https://github.com/noxtoby/awkde
+    - git+https://github.com/ucl-pond/kde_ebm
