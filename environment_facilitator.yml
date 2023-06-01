@@ -1,4 +1,4 @@
-name: teamcoder_ebm
+name: teamcoder_ebm_facilitator
 channels:
   - conda-forge
 dependencies:
