@@ -1,4 +1,4 @@
-country,year,sex,age,suicides_no,population,HDI for year, gdp_for_year ($) 
+country,year,sex,age,cases_no,population,HDI for year, gdp_for_year ($) 
 Albania,1987,male,15-24 years,21,312900,,"2,156,624,900"
 Albania,1987,male,35-54 years,16,308000,,"2,156,624,900"
 Albania,1987,female,15-24 years,14,289700,,"2,156,624,900"
