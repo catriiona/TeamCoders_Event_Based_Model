@@ -29,6 +29,11 @@ Please see the [Requirements page](requirements.md) for the required software sk
 Please note that this course will be using the Python programming language. 
 If you are interested in attending this course or going through its content, then we would recommend you have a basic familiarity with a scientific programming language, preferable Python or R. Understanding source code revision control using Git/Github is optional if your team prefers to collaborate in this manner.  
 
+We have provided a directory of Additional Resources in the repository. This material is optional, but we think it will probably be helpful for the course if you are not already familiar with these topics. It covers:
+* Basic overview of Python and Jupyter Notebooks
+* Working with git and GitHub
+* How imaging biomarkers for Alzheimer's disease are extracted from MRI and PET scans.
+
 If you have experience with R and not Python, don't worry! Here are some helpful resources that you should look at before attending:
 * [Python for R Users](https://github.com/poldrack/PythonForRUsers) - a helpful set of notebooks explaining various concepts in Python in the context of R users.
 * Software Carpentry workshops - [Introductory courses in Python](https://swcarpentry.github.io/python-novice-gapminder/) are available through [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing/training/course-catalogue) and [Research Software London](https://rslondon.ac.uk/events/)
@@ -45,7 +50,7 @@ for two weeks total.
 #### Day 1 (Expected time: 2 hours (3 hours max))
 The first day will involve introductions, so that facilitators and participants can get to know each other a bit 
 better, which will make interactions within the team and with the facilitators easier. 
-Then there will be introductory lectures (3 hours) that will provide the background and concepts
+Then there will be introductory lectures that will provide the background and concepts
 that will be explored as part of this project:
 * Imaging biomarkers in Alzheimer's disease
 * An overview of the Event Based Model
@@ -75,7 +80,7 @@ found easy, what they found difficult, and any additional things that they tried
 
 ### Week 2
 #### Day 6 (Expected time: 1 hour (2 hours max))
-We will go through the second _demonstration notebook_, which is all about the Event Based Model.
+We will go through the second _demonstration notebook_, which is all about the Event Based Model. If time, we will also go over how the imaging measures in the spreadsheets that you are using are measured from MRI and PET images. 
 
 #### Days 7-9
 Teams will work together on the project notebook to replicate the results from the [original
