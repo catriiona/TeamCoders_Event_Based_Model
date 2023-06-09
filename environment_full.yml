@@ -1,4 +1,4 @@
-name: teamcoder_ebm
+name: teamcoder_ebm_full
 channels:
   - conda-forge
 dependencies:
@@ -7,12 +7,15 @@ dependencies:
   - xlrd
   - pandas
   - matplotlib
+  - nibabel
+  - cmake
   - nilearn
   - tqdm
   - jupyterlab
-  - numpy
+  - rise
+  - numpy=1.16.3
   - pip:
+    - antspyx
+    - niwidgets
     - git+https://github.com/noxtoby/awkde
     - git+https://github.com/ucl-pond/kde_ebm
-
-
