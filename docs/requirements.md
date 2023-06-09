@@ -15,7 +15,17 @@ been completed:
 * Make sure that a recent version of Python (either using [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) is installed. We will use this to create a working environment that will install all the required packages and ensure that this project is kept separate from your regular work.
 
 ## Setting up a conda environment
-Nowadays you will run into various data science Python packages that may require specific dependencies that will result in clashes with other packages that you want to work with, particularly if you want to be able to reproduce various analyses you have done. For example, the first project you worked on may have code that required specific features from Numpy version 1.21.0, matplotlib version 3.5.0, and pandas version 1.4.3. You may have another project using software from a new group that requires updated versions of all three of those packages. Virtual environments allow you to creat a new directory that holds separate versions of all of these packages that don't interfere with each other. You can switch from one enviornment to another depending on what you are working on. For the purpose of this workshop, we will be creating a new environment on your laptops (assuming you have anaconda/miniconda installed as mentioned above). 
+Nowadays you will run into various data science Python packages that may require specific dependencies that will result in clashes with other packages that you want to work with, particularly if you want to be able to reproduce various analyses you have done. 
+
+For example, you may be working on "project A" that has code that needs the specific versions of the following packages:
+* Numpy version 1.21.0, 
+* matplotlib version 3.5.0,  
+* pandas version 1.4.3. 
+ 
+You may then start "project B", where you receive software from a new group that requires updated versions of all three of those packages. 
+
+Virtual environments allow you to creat a new directory that holds separate versions of all of these packages that don't interfere with each other. You can switch from one enviornment to another depending on what you are working on. For the purpose of this workshop, we will be creating a new environment on your laptops (assuming you have anaconda/miniconda installed as mentioned above). 
+
 To do that, you will need to download the code from Github or the Microsoft Teams site. Then, on the command line, you will need to go to the directory where you downloaded the code and type in the following command:
 ```
 conda env create -f environment.yml
