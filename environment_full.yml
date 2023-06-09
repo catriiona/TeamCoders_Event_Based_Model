@@ -1,4 +1,4 @@
-name: teamcoder_ebm_facilitator
+name: teamcoder_ebm_full
 channels:
   - conda-forge
 dependencies:
@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - matplotlib
   - nibabel
+  - cmake
   - nilearn
   - tqdm
   - jupyterlab
