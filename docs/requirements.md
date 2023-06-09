@@ -4,7 +4,7 @@ title: Requirements
 nav_order: 2
 ---
 
-# Requirements for this project
+# Requirements and setup for this project
 As we want to give all users the chance to 
 run code as part of their team, we need to make
 sure that the _development environment_ on each
